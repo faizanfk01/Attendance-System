@@ -1,8 +1,6 @@
 import csv
 from datetime import datetime
 
-# ---------------- Functions ---------------- #
-
 def get_date():
     """Get date from user or use today's date"""
     date_input = input("Enter date (YYYY-MM-DD) or press Enter for today: ").strip()

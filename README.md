@@ -3,7 +3,6 @@
 A simple and interactive **Attendance Management System** built in Python.  
 This program allows you to mark attendance for a list of students, display a summary, and optionally save the records in a **CSV file** for future reference.  
 
-
 ------------------------------------------------------------------------
 
 ## 🚀 Features  
@@ -14,7 +13,6 @@ This program allows you to mark attendance for a list of students, display a sum
 - 📅 **Date Tracking**: Automatically records today’s date (or lets you enter a custom date).  
 - ✅ **Error Handling**: Ensures only valid input (P/A) is accepted.  
 
-
 ------------------------------------------------------------------------
 
 ## 💻 Getting Started  
@@ -23,25 +21,18 @@ This program allows you to mark attendance for a list of students, display a sum
 
 - Python 3.x installed on your system.  
 
-
 ------------------------------------------------------------------------
 
 ## ⚙️ Installation  
 
 1. Clone the repository (or download the file):  
    ```bash
-   git clone https://github.com/faizanfk01/Attendance-System.git
-   
-   cd Attendance-System
-````
-
+   git clone https://github.com/your-username/attendance-system.git
+   cd attendance-system
 2. Run the program:
-
    ```bash
    python attendance_manager.py
    ```
-
-
 ------------------------------------------------------------------------
 
 ## 🧑‍💻 How to Use
@@ -49,12 +40,10 @@ This program allows you to mark attendance for a list of students, display a sum
 1. Run the program in your terminal.
 2. Enter the date when prompted (or press **Enter** for today’s date).
 3. For each student, type:
-
    * `P` → if Present
    * `A` → if Absent
 4. At the end, view a **summary report** of attendance.
 5. Choose whether to save the data in a `attendance.csv` file.
-
 
 ------------------------------------------------------------------------
 
@@ -65,7 +54,6 @@ attendance-system/
 ├── attendance_manager.py  # Main Python program
 ├── attendance.csv         # Attendance records (created after saving)
 ```
-
 
 ------------------------------------------------------------------------
 
@@ -90,8 +78,6 @@ Subhan : 25108203
 📊 Summary for 2025-09-18: 2 Present, 2 Absent
 ✅ Attendance saved to attendance.csv
 ```
-
-
 ------------------------------------------------------------------------
 
 ## ⚡ Technologies Used
@@ -99,7 +85,6 @@ Subhan : 25108203
 - Python 3.x
 - CSV module (built-in)
 - Datetime module (built-in)
-
 
 ------------------------------------------------------------------------
 
@@ -110,9 +95,7 @@ Subhan : 25108203
 - 🖥️ Add a **GUI version** using Tkinter or PyQt.
 - 🌐 Connect with an online **database** for centralized attendance management.
 
-
 ------------------------------------------------------------------------
 
 ## 🌟 Show Some Love
-
 If you found this project helpful, please ⭐ the repository to support! 🚀

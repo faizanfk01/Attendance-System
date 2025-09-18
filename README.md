@@ -28,11 +28,11 @@ This program allows you to mark attendance for a list of students, display a sum
 
 1. Clone the repository (or download the file):  
    ```bash
-   git clone https://github.com/your-username/attendance-system.git
+   git clone https://github.com/faizanfk01/Attendance-System.git
    cd attendance-system
 2. Run the program:
    ```bash
-   python attendance_manager.py
+   python Attendance_System.py
    ```
 ------------------------------------------------------------------------
 

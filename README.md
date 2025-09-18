@@ -3,7 +3,7 @@
 A simple and interactive **Attendance Management System** built in Python.  
 This program allows you to mark attendance for a list of students, display a summary, and optionally save the records in a **CSV file** for future reference.  
 
-------------------------------------------------------------------------
+---
 
 ## 🚀 Features  
 
@@ -19,7 +19,8 @@ This program allows you to mark attendance for a list of students, display a sum
 
 ### Prerequisites  
 
-- Python 3.x installed on your system.  
+- Python 3.x installed on your system.
+- No external libraries are required — this project uses only **built-in modules** (`csv`, `datetime`).  
 
 ------------------------------------------------------------------------
 
